@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/audience024/simple-get-host-util"
+  }
 }
