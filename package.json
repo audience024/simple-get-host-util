@@ -1,6 +1,6 @@
 {
   "name": "simple-get-host-util",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is simple get url host method",
   "main": "index.js",
   "scripts": {
